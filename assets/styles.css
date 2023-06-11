@@ -8,6 +8,7 @@
 
 /* Custom CSS to set the image height */
 .full-height-image {
-  height: 100%;
+  /* height: 40%; */
   max-height: 100vh;
+  width: auto
 }
